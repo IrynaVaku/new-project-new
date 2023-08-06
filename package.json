@@ -1,0 +1,23 @@
+{
+  "name": "new-project-new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open --e2e '/cypress/e2e/*.js' --browser chrome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrynaVaku/new-project-new.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IrynaVaku/new-project-new/issues"
+  },
+  "homepage": "https://github.com/IrynaVaku/new-project-new#readme",
+  "devDependencies": {
+    "cypress": "^12.17.3"
+  }
+}
